@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InfatuationStation</string>
+    <string name="EnterYourName">Type in names for compatibility check</string>
+    <string name="EnterOtherName">If incompatible, try updating firmware</string>
+    <string name="YourName" />
+    <string name="OtherName" />
+    <string name="hintYourName">Enter Your Name</string>
+    <string name="hintOtherName">Other Name</string>
+    <string name="matchmaker">Match</string>
+</resources>
